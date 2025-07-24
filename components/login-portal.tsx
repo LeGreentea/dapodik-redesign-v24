@@ -271,7 +271,7 @@ export function LoginPortal() {
       <footer className="bg-gray-50 border-t border-gray-200 mt-12">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-sm text-gray-600">
-            © 2025 Divine
+            © 2025 Divine & Pendidikan Indonesia
           </p>
         </div>
       </footer>
