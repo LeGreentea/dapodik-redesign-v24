@@ -271,7 +271,7 @@ export function LoginPortal() {
       <footer className="bg-gray-50 border-t border-gray-200 mt-12">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-sm text-gray-600">
-            © 2025 Direktorat Jenderal Pendidikan Anak Usia Dini, Pendidikan Dasar dan Pendidikan Menengah
+            © 2025 Divine
           </p>
         </div>
       </footer>

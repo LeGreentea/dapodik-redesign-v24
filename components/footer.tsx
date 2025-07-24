@@ -129,7 +129,7 @@ export function Footer() {
       <div className="border-t border-gray-800">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-gray-400 text-sm">
-            Hak Cipta © Kementerian Pendidikan Dasar dan Menengah 2025
+            © Divine 2025
           </p>
         </div>
       </div>
