@@ -14,10 +14,10 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
     metadataBase: new URL("https://nama-domain-anda.com"),
     title: {
-        default: "Nama Website Anda",
-        template: `%s | Nama Website Anda`,
+        default: "Dapodik Redesign ver24",
+        template: `%s | Dapodik Redesign ver24`,
     },
-    description: "Deskripsi singkat dan menarik tentang website Anda.",
+    description: "Deskripsi singkat tentang Dapodik Redesign ver24",
 };
 
 // Viewport disederhanakan untuk mode terang saja
